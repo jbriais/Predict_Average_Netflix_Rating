@@ -1,5 +1,7 @@
 # Predict_Average_Netflix_Rating
-Group and individual project to predict the average Netflix movie rating using Machine Learning Algorithms on Python
+Group and individual project to predict the average Netflix movie rating using Machine Learning Algorithms on Python.
+
+Data Source: https://www.kaggle.com/netflix-inc/netflix-prize-data
 
 This project had two parts: one in a group on Google Colab and an individual part on Google Colab and Jupyter.
 
